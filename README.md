@@ -1,4 +1,4 @@
-# api-crud-jwt
+# Bot Discord
 
 Bot de piadas do Discord.
 
