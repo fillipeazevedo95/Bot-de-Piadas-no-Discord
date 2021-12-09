@@ -14,6 +14,10 @@ Bot de piadas do Discord.
     CLIENT_TOKEN = "Seu token do discord"
 ```
 
+## START
+
++ node index.js
+
 ## COMANDOS BOT
 
 + Quem é você?
